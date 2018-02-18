@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/luismreis/node-openvg.git"
+    "url": "git://github.com/stephaneAG/node-openvg.git"
   },
   "keyword": [
     "raspberry-pi",
